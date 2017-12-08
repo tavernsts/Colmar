@@ -18,7 +18,7 @@ html{
 }
 
 .nav a{
-  color: #6d6d6d;
+  color: #7c7c7c;
   padding: .5rem;
   text-decoration: none;
 }
@@ -47,7 +47,7 @@ html{
 /* banner */
 
 .banner{
-  background-color: #2E3F54;
+  background-color: #2e4c54;
   padding: 0;
   margin: 0;
 }
@@ -68,7 +68,7 @@ html{
 
 .banner-context{
   padding-left: 1.5rem;
-  color: #FFF8ED;
+  color: #fcfaf7;
   text-align: left;
   font-family: helvetica;
   font-weight: normal;
@@ -95,6 +95,7 @@ html{
   max-width: 60%;
   text-align: center;
   align-items: center;
+  font-weight: bold;
   border-radius: 10px;
 }
 
@@ -230,7 +231,7 @@ html{
 }
 
 .horizontal-card:hover{
-  background-color: #CEE2F9;
+  background-color: #d1f5ff;
   cursor: pointer;
 }
 
@@ -302,7 +303,7 @@ html{
 /* second section: learning */
 
 .section-2{
-  background-color: #CEE2F9;
+  background-color: #a6b8bc;
   padding-top: 1rem;
   font-family: helvetica, sans-serif;
   font-weight: normal;
@@ -549,7 +550,7 @@ html{
 /* footer */
 
 .footer{
-  background-color: #2E3F54;
+  background-color: #2f5363;
   display: flex;
   align-items: center;
   justify-content: space-between;
